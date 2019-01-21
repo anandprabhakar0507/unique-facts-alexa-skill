@@ -1,6 +1,7 @@
 # unique-facts-alexa-skill
 this is amazon alexa skill that tells interesting unique facts
 #see [video](https://youtu.be/Qvaq8CIwx3s)
+![](https://github.com/anandprabhakar0507/unique-facts-alexa-skill/blob/master/unique%20facts.gif)
 ### simply start by saying "open unique facts"
 
 #### and then use phrases like "Alexa ask unique facts to tell me something interesting" or try "Alexa ask unique facts for a fact"
