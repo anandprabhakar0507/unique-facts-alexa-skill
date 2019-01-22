@@ -17,6 +17,7 @@ const FACTS = [
 "More than 50% of the people in the world have never made or received a telephone call.",
 "People say "Bless you" when you sneeze because when you sneeze,your heart stops for a mili-second.",
 "If you sneeze too hard, you can fracture a rib",
+"The Grammy Awards were introduced to counter the threat of rock music. In the late 1950s, a group of record executives were alarmed by the explosive success of rock ‘n roll, considering it a threat to "quality" music"
 "Rats multiply so quickly that in 18 months, two rats could have over a million descendants",
 ];
 
